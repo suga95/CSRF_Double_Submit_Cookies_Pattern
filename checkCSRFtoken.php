@@ -22,7 +22,7 @@ if(isset($_POST['fName']))
     {
         echo "<font color='red' size='12'> Cross-Site Request Forgery Attack is Detected </font> <br>";
         echo "<font color='red' size='12'> Cross-Site Request Forgery Attack is successfully Eradicated!  </font><br>";
-        echo "<font color='green' size='12'> Thanks to <u>Synchronizer Token Patterns</u> </font>";
+        echo "<font color='green' size='12'> Thanks to <u>Double Submit Cookies Patterns</u> </font>";
     }
 
 }
